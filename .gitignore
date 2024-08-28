@@ -1,0 +1,41 @@
+# Flutter/Dart
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.idea/
+**/android/
+**/ios/
+**/macos/
+**/web/
+**/windows/
+**/linux/
+**/test/
+**/coverage/
+**/.vscode/
+
+# Angular/Node.js
+node_modules/
+dist/
+tmp/
+build/
+# Ignore Angular environments
+src/environments/environment*.ts
+
+# Optional: Ignore IDE-specific files
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+.history/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
